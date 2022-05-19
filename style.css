@@ -19,7 +19,7 @@
     gap: 20px;
 }
 .card{
-    padding: 20px;
+    padding: 25px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-bottom: 10px;
     border-radius: 10px;
@@ -52,6 +52,9 @@
 }
 .purple{
     background-color: hsl(263, 55%, 52%);
+    background-image: url(/images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top 10px right 30px;
     color: white;
 }
 .dark-blue{
@@ -74,5 +77,5 @@
     grid-row: 2;
 }
 .attribution{
-    margin-top: 50px;
+    margin-bottom: 90px;
 }
