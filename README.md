@@ -22,7 +22,7 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## My design
+## My design :technologist: 
 
 ![Design preview for the Testimonials grid section coding challenge](https://i.hizliresim.com/hootmwo.png)
 
