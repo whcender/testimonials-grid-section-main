@@ -24,6 +24,6 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## My design
 
-![Design preview for the Testimonials grid section coding challenge](https://i.hizliresim.com/sxm45u5.png)
+![Design preview for the Testimonials grid section coding challenge](https://i.hizliresim.com/hootmwo.png)
 
-**My Code (index.html, style.css).**
+**My Code in => (index.html, style.css).**
